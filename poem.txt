@@ -2,6 +2,7 @@ The git demo poem part 2
 Purple
 Pink
 Orange
+Magenta
 Yellow
 Green
 Unicorn
