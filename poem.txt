@@ -1,4 +1,7 @@
 The git demo poem
 Purple
 Pink
+Orange
 Yellow
+Green
+Red
